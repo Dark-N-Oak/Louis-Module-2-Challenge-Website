@@ -54,7 +54,7 @@ header nav {
 /* banner styles */
 .banner {
   border-radius: 10px;
-  background: url("../Assets/IMAGES/banner.jpg");
+  background: url("../IMAGES/banner.jpg");
   background-position: top;
   background-size: cover;
   background-attachment: fixed;
@@ -170,7 +170,7 @@ ul.bottom {
 /* grid item styles */
 .item1 {
   grid-column: 1/5;
-  background-image: url("../Assets/IMAGES/project-1.jpg");
+  background-image: url("../IMAGES/project-1.jpg");
   background-size: cover;
   position: relative;
   overflow: hidden;
